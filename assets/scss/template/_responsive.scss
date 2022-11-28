@@ -1,0 +1,22 @@
+
+/* Available Breakpoints */ 
+// Custom (cm) / max 420px
+@media (max-width: 420px) {}
+
+// Extra small (xs) / min 421px & max 575px
+@media only screen and (min-width: 421px) and (max-width: 575px) {}
+
+// Small (sm) / min 576px & max 767px
+@media (min-width: 576px) and (max-width: 767px) {}
+
+// Medium (md) / min 768px & max 991px
+@media (min-width: 768px) and (max-width: 991px) {}
+
+// Large (lg) / min 992px & max 1199px
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+// Extra Large (xl) / min 1200px & max 1399px
+@media (min-width: 1200px) and (max-width: 1399px) {}
+
+// Extra Extra Large (xxl) / min 1400px
+@media (min-width: 1400px) {}

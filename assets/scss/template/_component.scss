@@ -1,0 +1,19 @@
+// Slider Style Starts Here
+.swiper {
+	width: 100%;
+	height: 100%;
+    &-slide{
+        height: 100vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+}
+.swiper-button-next, 
+.swiper-button-prev{
+    color: #f1f1f1;
+}
+.swiper-pagination-bullet{
+    background-color: #f1f1f1;
+}
+// Slider Style Ends Here
